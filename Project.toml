@@ -2,6 +2,7 @@
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+Evolutionary = "86b6b26d-c046-49b6-aa0b-5f0f74682bd6"
 
 [compat]
 CairoMakie = "~0.8"
